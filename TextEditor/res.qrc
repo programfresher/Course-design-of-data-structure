@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Undo.jpg</file>
+        <file>Redo.jpg</file>
+        <file>Save.jpg</file>
+    </qresource>
+</RCC>
